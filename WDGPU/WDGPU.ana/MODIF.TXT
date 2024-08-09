@@ -1,0 +1,3 @@
+//MO008-009.TXT ANA00008 TO ANA00009
+GPU_Element	NameTargetD	RUB-		key NameTargetD deleted
+GPU_Target	TargetIsAnExternalComponentID	RUB-		key TargetIsAnExternalComponentID deleted

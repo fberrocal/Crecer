@@ -1,0 +1,20 @@
+###################################
+## CRECER (WINDEV)
+###################################
+
+Backup/
+Crecer.cpl/
+History/
+Exe/
+cache.gestion de sources/
+
+# Se ignoran todas las carpetas de versiones de generación del Analisys (ANAXXX)
+/CrecerAna.ana/ANA*
+
+# Se ignoran las carpetas LASTGEN y lastsave del Análisis
+/CrecerAna.ana/LASTGEN
+/CrecerAna.ana/lastsave
+/CrecerAna.ana/cache.gestion de sources
+
+/HstDuree.log
+/Crecer.env

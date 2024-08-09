@@ -1,0 +1,3 @@
+//MO007-008.TXT ANA00007 TO ANA00008
+seguimientos		TAR	557	new record size: 557
+seguimientos	asiste	RUB+		asiste is a new item
