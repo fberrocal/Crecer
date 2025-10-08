@@ -1,3 +1,2 @@
-//MO007-008.TXT ANA00007 TO ANA00008
-seguimientos		TAR	557	new record size: 557
-seguimientos	asiste	RUB+		asiste is a new item
+//MO008-009.TXT ANA00008 TO ANA00009
+Development connection		CNX		
